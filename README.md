@@ -32,7 +32,7 @@ git clone https://github.com/ytyaru/Shell.Chromium.Profile.Selector.202010061930
 
 ```sh
 cd Shell.Chromium.Profile.Selector.20201006193015/src
-./run.sh
+./select_chromium_profile.sh
 ```
 
 # Author
